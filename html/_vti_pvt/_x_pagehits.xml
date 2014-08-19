@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="nov 2004" total="31">
+<item str="results.php" cnt="5" />
+</month>
+<month val="dec 2004" total="49">
+<item str="results.php" cnt="25" />
+</month>
+<month val="jan 2005" total="20">
+<item str="results.php" cnt="3" />
+</month>
+<month val="feb 2005" total="18">
+<item str="results.php" cnt="6" />
+</month>
+<month val="mar 2005" total="63">
+<item str="results.php" cnt="44" />
+</month>
+<month val="apr 2005" total="44">
+<item str="results.php" cnt="26" />
+</month>
+<month val="may 2005" total="17">
+<item str="results.php" cnt="5" />
+</month>
+<month val="nov 2005" total="1">
+</month>
+</usagedata>
